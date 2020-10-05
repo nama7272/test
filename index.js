@@ -1,3 +1,3 @@
 !function (e) {
-	o.p = "/_nuxt/"
+	o.p = "https://purelovers-sp.netlify.app/_nuxt/"
 }([]);
